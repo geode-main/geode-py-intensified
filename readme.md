@@ -1,5 +1,13 @@
 # Geode Python SDK - Enhanced
 
+>Geode: [https://www.geode.fi](https://www.geode.fi)
+>
+>Project Documentation: [https://docs.geode.fi](https://docs.geode.fi)
+>
+>SDK documentation: [https://sdk.geode.fi](https://sdk.geode.fi)
+>
+>Source Code: [https://github.com/Geodefi/geode-py](https://github.com/Geodefi/geode-py)
+
 [geodefi](https://github.com/Geodefi/geode-py) is a Python library designed to make things easier for the users of the permissionless [The Staking Library](https://github.com/Geodefi/Portal-Eth)(soon public).
 
 In this repository I will try to cover most of the functionalities for the SDK. Thus, showcasing the possible Node Operation and Pool owner task automations.
