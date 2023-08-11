@@ -1,4 +1,4 @@
-# Geode Python SDK - Enhanced
+# Geode Python SDK - INTENSIFIED -
 
 >Geode: [https://www.geode.fi](https://www.geode.fi)
 >
