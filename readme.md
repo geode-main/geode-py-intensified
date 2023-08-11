@@ -64,14 +64,14 @@ PRIVATE_KEY ="xxxxx"
 
 ## Content
 
-- Learning Basics, Important Classes, Utilizing [Beaconcha.in](https://beaconcha.in/)
-- Understanding Portal's Isolated Storage
-- Staking Pools and Beyond
-- Operators and Operator Marketplace
-- Reading available Validator data
-- Sending Transactions through Geode's contracts
-- Creating Validators
-- Example Operator Automation Script
+- [Getting Started & Important Classes & Utilizing beaconcha.in api](0-Learning-Basics.ipynb)
+- [Understanding Portal's Isolated Storage](1-Portal-Isolated-Storage.ipynb)
+- [Staking Pools and Beyond](2-Staking-Pools.ipynb)
+- [Operators and Operator Marketplace](3-Operator-and-Marketplace.ipynb)
+- [Reading available Validator data](4-Validators.ipynb)
+- [Sending Transactions through Geode's contracts](5-Sending-Transactions.ipynb)
+- [Creating Validators](6-Creating-Validators.ipynb)
+- [Example Operator Automation Script](7-Operator-Automation.ipynb)
 
 ## Developer Notes
 
