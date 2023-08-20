@@ -77,4 +77,4 @@ PRIVATE_KEY ="xxxxx"
 
 `geodefi` SDK is chain-agnostic, meaning further versions will support other Proof-of-Stake chains that Geode's Staking Library is deployed on.
 
-The library will aslo figure out which chain the user is intending to use this SDK according to provided initialization parameters, such as EXECUTION_API.
+The library will also figure out which chain the user is intending to use this SDK according to provided initialization parameters, such as `exec_api`.
